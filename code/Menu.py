@@ -6,7 +6,7 @@ from pygame import Surface, Rect
 from pygame.font import Font
 
 from code.Const import WIN_WIDTH, C_ORANGE, MENU_OPTION, C_WHITE, C_YELLOW
-
+import asset
 
 class Menu:
     def __init__(self, window):
